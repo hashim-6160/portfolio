@@ -111,7 +111,7 @@ export function Skills() {
             Also worked with
           </p>
           <div className="flex flex-wrap gap-2 justify-center">
-            {["Zod", "React Query", "Apollo Client", "Prisma", "Vercel", "ESLint", "Prettier", "Git", "GitHub Actions"].map(
+            {["Zod", "React Query", "Apollo Client", "Prettier", "Git", "GitHub Actions"].map(
               (tech) => (
                 <span
                   key={tech}

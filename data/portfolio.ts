@@ -19,9 +19,9 @@ export const personalInfo: PersonalInfo = {
     "Frontend Engineer",
   ],
   contact: {
-    email: "hashim@example.com",
-    github: "https://github.com/hashim",
-    linkedin: "https://linkedin.com/in/hashim",
+    email: "hashimmohammad860@gmail.com",
+    github: "https://github.com/hashim-6160",
+    linkedin: "https://www.linkedin.com/in/mohammad-hashimb6160/",
     resumeUrl: "/resume.pdf",
   },
 };
@@ -118,8 +118,8 @@ export const projects: Project[] = [
     gradient: "from-purple-500 via-violet-500 to-indigo-500",
   },
   {
-    id: "quotbit",
-    title: "Quotbit – RFQ Management Platform",
+    id: "qotbit",
+    title: "Qotbit – RFQ Management Platform",
     type: "B2B Procurement Platform",
     description:
       "Developed a Request for Quotation platform connecting buyers and sellers. Buyers can publish procurement requirements while suppliers submit quotations. Buyers can compare quotes and select the most suitable vendors.",
@@ -130,7 +130,7 @@ export const projects: Project[] = [
       "Procurement Dashboard",
       "Real-Time Status Tracking",
     ],
-    technologies: ["React", "Next.js", "TypeScript", "REST APIs", "Zod"],
+    technologies: ["Next.js", "TypeScript", "REST APIs", "Zod"],
     featured: true,
     gradient: "from-blue-500 via-indigo-500 to-purple-500",
   },
@@ -152,8 +152,8 @@ export const projects: Project[] = [
     gradient: "from-violet-500 via-purple-500 to-pink-500",
   },
   {
-    id: "tshirt-ecommerce",
-    title: "T-Shirt E-Commerce Website",
+    id: "shopper-tshirt-ecommerce",
+    title: "Shopper - T-Shirt E-Commerce Website",
     type: "Personal Project",
     description:
       "Designed and developed a complete e-commerce platform for custom t-shirt sales during academic studies, featuring product browsing, shopping cart functionality, and responsive design.",
@@ -167,8 +167,8 @@ export const projects: Project[] = [
     gradient: "from-cyan-500 via-blue-500 to-indigo-500",
   },
   {
-    id: "hotel-booking",
-    title: "Hotel Booking Website",
+    id: "lotus-hotel-booking",
+    title: "Lotus Hotel Booking Website",
     type: "Personal Project",
     description:
       "Created a hotel booking platform enabling users to search hotels, view room availability, and make reservations through an intuitive booking experience.",
@@ -186,7 +186,7 @@ export const projects: Project[] = [
 export const timelineItems: TimelineItem[] = [
   {
     id: "enterprise-dev",
-    period: "2023 – Present",
+    period: "2026 – Present",
     title: "Enterprise Application Development",
     subtitle: "Full Stack Developer",
     description:
@@ -196,7 +196,7 @@ export const timelineItems: TimelineItem[] = [
   },
   {
     id: "mobile-dev",
-    period: "2023",
+    period: "2026",
     title: "Mobile Application Development",
     subtitle: "React Native Developer",
     description:
@@ -206,7 +206,7 @@ export const timelineItems: TimelineItem[] = [
   },
   {
     id: "b2b-platform",
-    period: "2023",
+    period: "2025",
     title: "B2B Platform Development",
     subtitle: "Frontend Developer",
     description:
@@ -216,7 +216,7 @@ export const timelineItems: TimelineItem[] = [
   },
   {
     id: "frontend-engineering",
-    period: "2022 – 2023",
+    period: "2024 – 2025",
     title: "Frontend Engineering",
     subtitle: "React Developer",
     description:
@@ -226,7 +226,7 @@ export const timelineItems: TimelineItem[] = [
   },
   {
     id: "academic-projects",
-    period: "2021 – 2022",
+    period: "2024 – 2025",
     title: "Academic Projects & Learning",
     subtitle: "Student Developer",
     description:
