@@ -22,7 +22,7 @@ export const personalInfo: PersonalInfo = {
     email: "hashimmohammad860@gmail.com",
     github: "https://github.com/hashim-6160",
     linkedin: "https://www.linkedin.com/in/mohammad-hashimb6160/",
-    resumeUrl: "/resume.pdf",
+    resumeUrl: "/Mohammad_Hashim_B_CV.pdf",
   },
 };
 
